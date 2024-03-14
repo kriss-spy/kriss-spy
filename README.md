@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm college student and I major in automation.
-Currently I am working on a c programming course design project, which is to develop an c project that can simulate windows explorer in BorlandC.
+Currently I am working on a c programming course design project, which is to develop a c project that can simulate windows explorer in BorlandC.
 Sounds unreasonable, isn't it?awa
 
 <!--
