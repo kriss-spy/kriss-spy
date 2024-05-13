@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm college student and I major in automation.
-Currently I am learning Python from scratch, and I found it much satisfying than C
+Currently I am learning Python from scratch, and I found it much satisfying than C.
 I am preparing for future study of LLM
 <!--
 **kriss-spy/kriss-spy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
