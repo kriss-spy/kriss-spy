@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm college student and I major in automation.
-Currently I am working on a c programming course design project, which is to develop a c project that can simulate windows explorer in BorlandC.
-Sounds unreasonable, isn't it?awa
-
+Currently I am learning Python from scratch, and I found it much satisfying than C
+I am preparing for future study of LLM
 <!--
 **kriss-spy/kriss-spy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
