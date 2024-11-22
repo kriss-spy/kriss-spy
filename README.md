@@ -1,9 +1,11 @@
 ### Hi there 👋
-I'm college student and I major in automation.
+undergraduate and major in AI
 
-Currently I am learning Python(much more satisfying than C), CSAPP, The Missing Semester of Your CS Education, algorithm basics, Hugging LLM
+exploring Internet now, huggingface and many other communities are fascinating
 
-I am preparing for future study of AI
+preparing for future study of AI
+
+see my github pages: 
 <!--
 **kriss-spy/kriss-spy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
