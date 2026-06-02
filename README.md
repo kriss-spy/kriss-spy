@@ -1,22 +1,35 @@
 ### Hi there 👋
+
 undergraduate and major in AI
 
-exploring Internet now, huggingface and many other communities are fascinating
+building stuff with agentic coding
 
-preparing for future study of AI
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![KDE](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=KDE&logoColor=white)
+![OpenCode](https://img.shields.io/badge/-OpenCode-121212?style=flat-square)
 
-see my github pages: 
-<!--
-**kriss-spy/kriss-spy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [skills](https://github.com/kriss-spy/skills)
+- [obsidian-skills](https://github.com/kriss-spy/obsidian-skills)
+- [skillboard](https://github.com/kriss-spy/skillboard)
+
+### opencode
+
+- [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
+- [opencode-jupyter](https://github.com/kriss-spy/opencode-jupyter)
+- [opencode-ask-manus](https://github.com/kriss-spy/opencode-ask-manus)
+
+### obsidian
+
+- [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
+- [obsidian-wiki](https://github.com/kriss-spy/obsidian-wiki)
+
+### daily miku
+
+<https://github.com/kriss-spy/daily-miku-base>
+
+<https://dailymiku.dev>
