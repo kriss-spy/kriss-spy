@@ -28,6 +28,11 @@ building stuff with agentic coding
 - [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
 - [obsidian-wiki](https://github.com/kriss-spy/obsidian-wiki)
 
+### CLI
+
+- [skillboard](https://github.com/kriss-spy/skillboard)
+- [dtrans](https://github.com/kriss-spy/deep-translate-shell)
+
 ### daily miku
 
 <https://github.com/kriss-spy/daily-miku-base>
