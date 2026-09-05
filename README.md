@@ -21,7 +21,7 @@ building stuff with agentic coding
 
 - [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
 - [opencode-jupyter](https://github.com/kriss-spy/opencode-jupyter)
-- [opencode-ask-manus](https://github.com/kriss-spy/opencode-ask-manus)
+- [opencode-skill-timeline](https://github.com/kriss-spy/opencode-skill-timeline)
 
 ### obsidian
 
