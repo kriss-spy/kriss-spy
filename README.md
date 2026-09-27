@@ -11,23 +11,25 @@ building stuff with agentic coding
 
 ## Projects
 
-### skills
-
-- [skills](https://github.com/kriss-spy/skills)
-- [obsidian-skills](https://github.com/kriss-spy/obsidian-skills)
-- [skillboard](https://github.com/kriss-spy/skillboard)
-
 ### opencode
 
-- [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
+- ⭐⭐[obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
 - [opencode-jupyter](https://github.com/kriss-spy/opencode-jupyter)
-- [opencode-skill-timeline](https://github.com/kriss-spy/opencode-skill-timeline)
+- ⭐[opencode-skill-timeline](https://github.com/kriss-spy/opencode-skill-timeline)
+- ⭐[opencode-scroll-tabs](https://github.com/kriss-spy/opencode-scroll-tabs)
 
 ### obsidian
 
 - [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
+- ⭐[frontmatter-templater](https://github.com/kriss-spy/frontmatter-templater)
 - [plugman](https://github.com/kriss-spy/plugman)
 - [obsidian-wiki](https://github.com/kriss-spy/obsidian-wiki)
+
+### agent skills
+
+- [skills](https://github.com/kriss-spy/skills)
+- ⭐[obsidian-skills](https://github.com/kriss-spy/obsidian-skills)
+- [skillboard](https://github.com/kriss-spy/skillboard)
 
 ### misce
 
