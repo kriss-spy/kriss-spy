@@ -17,13 +17,26 @@ building stuff with agentic coding
 - [opencode-jupyter](https://github.com/kriss-spy/opencode-jupyter)
 - ⭐[opencode-skill-timeline](https://github.com/kriss-spy/opencode-skill-timeline)
 - ⭐[opencode-scroll-tabs](https://github.com/kriss-spy/opencode-scroll-tabs)
+- ⭐[opencode-latex](https://github.com/kriss-spy/opencode-latex)
 
 ### obsidian
 
 - [obsidian-opencode](https://github.com/kriss-spy/obsidian-opencode)
-- ⭐[frontmatter-templater](https://github.com/kriss-spy/frontmatter-templater)
+- [frontmatter-templater](https://github.com/kriss-spy/frontmatter-templater)
 - [plugman](https://github.com/kriss-spy/plugman)
-- [obsidian-wiki](https://github.com/kriss-spy/obsidian-wiki)
+
+### websites
+
+- <https://dailymiku.dev>
+- <https://kriss-spy.github.io/linux-world-domination>
+- <https://hololive-connections-atlas.vercel.app>
+
+### blue archive
+
+https://github.com/Millennium-GDD
+
+- [bluecafe](https://github.com/Millennium-GDD/bluecafe)
+- [onlystory](https://github.com/kriss-spy/onlystory)
 
 ### agent skills
 
@@ -31,12 +44,8 @@ building stuff with agentic coding
 - ⭐[obsidian-skills](https://github.com/kriss-spy/obsidian-skills)
 - [skillboard](https://github.com/kriss-spy/skillboard)
 
-### misce
+### utilities
 
 - [dtrans](https://github.com/kriss-spy/deep-translate-shell)
+- [bilidl](https://github.com/kriss-spy/bilidl)
 
-### daily miku
-
-<https://github.com/kriss-spy/daily-miku-base>
-
-<https://dailymiku.dev>
